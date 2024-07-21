@@ -329,6 +329,9 @@ header part */
   letter-spacing: 0.02em;
   color: #ffffff;
 }
+.footer-yazi {
+  margin-bottom: 16px;
+}
 .footer-item {
   display: flex;
   gap: 16px;
